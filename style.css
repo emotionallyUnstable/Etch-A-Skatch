@@ -144,3 +144,10 @@ body {
   .grid-element {
     user-select: none;
   }
+
+  .color__picker {
+    position: absolute;
+    width: 300px;
+    height: 100px;
+    opacity: 0;
+  }
